@@ -1,6 +1,6 @@
 {
     "name": "API-RickAnMorty",
-    "description": "ste es un componente Vue.js que muestra una lista de personajes de Rick y Morty, permitiendo filtrarlos por estado y buscarlos por nombre.",
+    "description": "El componente Vue.js de Lista de Personajes de Rick y Morty ofrece una experiencia interactiva al mostrar una lista dinámica de personajes de la serie. Permite filtrarlos por estado vital y buscarlos por nombre, todo ello mediante peticiones HTTP para garantizar datos actualizados y una interfaz responsive que se adapta perfectamente a diferentes dispositivos, ofreciendo una exploración eficiente y atractiva de la información.",
     "image": "https://github.com/BrayanGarzon/API-Rick-and-Morty/blob/main/public/images/imageHome.png?raw=true",
     "frameworks": ["JavaScript", "Html", "CSS", "Vue"],
     "url_repo": "https://github.com/BrayanGarzon/API-Rick-and-Morty.git",
