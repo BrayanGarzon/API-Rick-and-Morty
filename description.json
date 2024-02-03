@@ -1,10 +1,10 @@
 {
     "name": "API-RickAnMorty",
     "description": "ste es un componente Vue.js que muestra una lista de personajes de Rick y Morty, permitiendo filtrarlos por estado y buscarlos por nombre.",
-    "image": "https://github.com/BrayanGarzon/Calculator-App/blob/main/images/CallculatorApp.png?raw=true",
+    "image": "https://github.com/BrayanGarzon/API-Rick-and-Morty/blob/main/public/images/imageHome.png?raw=true",
     "frameworks": ["JavaScript", "Html", "CSS", "Vue"],
-    "url_repo": "https://github.com/BrayanGarzon/Calculator-App.git",
-    "url_live": "https://calculator-app-mocha-two.vercel.app/",
+    "url_repo": "https://github.com/BrayanGarzon/API-Rick-and-Morty.git",
+    "url_live": "https://api-rick-and-morty-rho.vercel.app/",
     "fecha": "03/02/2024"
   }
   

@@ -234,6 +234,95 @@ export default {
       color: orange;
     }
 
+    /* MOBILE */
+    @media only screen and (max-width: 600px) {
+      section{
+        width: 100%;
+        margin: 0;
+      }
+      section > h1{
+        font-size: 35px;
+        margin-top: 1rem;
+      }
+      section .filter{
+        width: 80%;
+      }
+      section > input{
+        width: 80%;
+      }
+      .card{
+        width: 80%;
+        margin-bottom: 1rem;
+      }
+    }
+
+    /* TABLET */
+    @media only screen and (max-width: 768px) {
+      section{
+        width: 100%;
+        margin: 0;
+      }
+      section > h1{
+        font-size: 35px;
+        margin-top: 1rem;
+      }
+      section .filter{
+        width: 86%;
+      }
+      section > input{
+        width: 86%;
+      }
+      .card{
+        width: 40%;
+        margin-bottom: 1rem;
+      }
+    }
+
+
+    /* lATOP */
+    @media only screen and (max-width: 1024px) {
+      section{
+        width: 100%;
+        margin: 0;
+      }
+      section > h1{
+        font-size: 45px;
+        margin-top: 4rem;
+      }
+      section .filter{
+        width: 40%;
+      }
+      section > input{
+        width: 40%;
+      }
+      .card{
+        width: 30%;
+        margin-bottom: 1rem;
+      }
+    }
+
+
+    /* lATOP */
+    @media only screen and (max-width: 1200px) {
+      section{
+        width: 100%;
+        margin: 0;
+      }
+      section > h1{
+        font-size: 45px;
+        margin-top: 4rem;
+      }
+      section .filter{
+        width: 45%;
+      }
+      section > input{
+        width: 45%;
+      }
+      .card{
+        width: 20%;
+        margin-bottom: 1rem;
+      }
+    }
   </style>
   
 
