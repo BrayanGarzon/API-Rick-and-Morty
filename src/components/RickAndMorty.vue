@@ -234,8 +234,9 @@ export default {
       color: orange;
     }
 
+    
     /* MOBILE */
-    @media only screen and (max-width: 600px) {
+    @media only screen and (min-width: 370px) and (max-width: 600px) {
       section{
         width: 100%;
         margin: 0;
@@ -256,8 +257,8 @@ export default {
       }
     }
 
-    /* TABLET */
-    @media only screen and (max-width: 768px) {
+    /* TABLET*/
+    @media only screen and (min-width: 601px) and (max-width: 768px) {
       section{
         width: 100%;
         margin: 0;
@@ -279,8 +280,8 @@ export default {
     }
 
 
-    /* lATOP */
-    @media only screen and (max-width: 1024px) {
+    /* LAPTOP */
+    @media only screen and (min-width: 769px) and (max-width: 1024px) {
       section{
         width: 100%;
         margin: 0;
@@ -302,8 +303,8 @@ export default {
     }
 
 
-    /* lATOP */
-    @media only screen and (max-width: 1200px) {
+    /* LARGE SCREEN */
+    @media only screen and (min-width: 1025px) and (max-width: 1201px) {
       section{
         width: 100%;
         margin: 0;
@@ -323,6 +324,7 @@ export default {
         margin-bottom: 1rem;
       }
     }
+    
   </style>
   
 
