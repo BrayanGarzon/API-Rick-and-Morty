@@ -1,6 +1,7 @@
 # API-RickAnMorty
 
 This is a Vue.js component that displays a list of Rick and Morty characters, allowing you to filter them by status and search by name.
+![Axios](./public/images/imageHome.png)
 
 ## Here I explain each part:
 
@@ -44,10 +45,6 @@ This method filters characters by name. Shows only characters whose name include
 The component template displays a list of characters. Each character is shown on a card with their image, name, status, species, gender, origin and location. There is also a search bar and buttons to filter by status. When a filter button is clicked, the filterByStatus method is called with the corresponding status. When text is entered into the search bar, the filterByName method is called.
 
 
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 ## Customize configuration
 
